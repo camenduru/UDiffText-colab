@@ -18,6 +18,7 @@ https://arxiv.org/abs/2312.04884
 https://udifftext.github.io/
 
 ### 🖼 Output
+![Screenshot 2023-12-15 212939](https://github.com/camenduru/UDiffText-colab/assets/54370274/d3a992ef-c845-40cb-aa0d-18338b77f97f)
 
 ### 🏢 Sponsor
 https://modelslab.com
